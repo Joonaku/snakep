@@ -1,0 +1,9 @@
+#include "resource.h"
+
+#ifndef __BORLANDC__
+
+IDB_BALL                BITMAP  DISCARDABLE     "snake.bmp"
+IDB_APPLE				BITMAP	DISCARDABLE		"apple.bmp"
+#endif
+
+
